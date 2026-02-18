@@ -6,5 +6,11 @@ public class Sample {
 		System.out.println("Sample1");
 
 	}
+	
+	private void ashikCoding() {
+		System.out.println("Ashik");
+
+	}
+	
 
 }
