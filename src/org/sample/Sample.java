@@ -7,10 +7,17 @@ public class Sample {
 
 	}
 	
+
+	private void saiCodings() {
+		System.out.println("sai");
+
+	}
+
 	private void ashikCoding() {
 		System.out.println("Ashik");
 
 	}
 	
+
 
 }
