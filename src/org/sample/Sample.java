@@ -6,5 +6,10 @@ public class Sample {
 		System.out.println("Sample1");
 
 	}
+	
+	private void saiCodings() {
+		System.out.println("sai");
+
+	}
 
 }
